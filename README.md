@@ -1,6 +1,6 @@
 # connectorph
 
-A new Flutter application.
+A new Flutter application. Code for the app is located in screens folder.
 
 ## Getting Started
 
